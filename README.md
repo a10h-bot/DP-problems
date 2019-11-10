@@ -1,5 +1,5 @@
 # DP-problems
-* Commonly asked DP problems and solutions
+### Commonly asked DP problems and solutions
 * Longest Common Subsequence
 * Longest Increasing Subsequence
 * Edit Distance
